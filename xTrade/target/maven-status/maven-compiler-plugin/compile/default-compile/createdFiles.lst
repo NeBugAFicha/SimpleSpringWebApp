@@ -1,0 +1,6 @@
+com/marketPlace/dao/UserDao.class
+com/marketPlace/controller/UserController.class
+com/marketPlace/App.class
+com/marketPlace/service/TestBean.class
+com/marketPlace/config/SpringConfig.class
+com/marketPlace/service/UserService.class
